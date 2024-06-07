@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\WebApiPratice\\WebApiPratice.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Entity\\BussinessLogic.Entity.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Entity\\BussinessLogic.Entity.csproj",
+        "projectName": "BussinessLogic.Entity",
+        "projectPath": "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Entity\\BussinessLogic.Entity.csproj",
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {}
+      }
+    },
+    "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Service\\BussinessLogic.Service.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Service\\BussinessLogic.Service.csproj",
+        "projectName": "BussinessLogic.Service",
+        "projectPath": "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Service\\BussinessLogic.Service.csproj",
+        "frameworks": {
+          "net462": {
+            "projectReferences": {
+              "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Entity\\BussinessLogic.Entity.csproj": {
+                "projectPath": "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Entity\\BussinessLogic.Entity.csproj"
+              },
+              "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Utilities\\BussinessLogic.Utilities.csproj": {
+                "projectPath": "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Utilities\\BussinessLogic.Utilities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {}
+      }
+    },
+    "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Utilities\\BussinessLogic.Utilities.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Utilities\\BussinessLogic.Utilities.csproj",
+        "projectName": "BussinessLogic.Utilities",
+        "projectPath": "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Utilities\\BussinessLogic.Utilities.csproj",
+        "frameworks": {
+          "net462": {
+            "projectReferences": {
+              "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Entity\\BussinessLogic.Entity.csproj": {
+                "projectPath": "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Entity\\BussinessLogic.Entity.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {}
+      }
+    },
+    "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\WebApiPratice\\WebApiPratice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\WebApiPratice\\WebApiPratice.csproj",
+        "projectName": "WebApiPratice",
+        "projectPath": "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\WebApiPratice\\WebApiPratice.csproj",
+        "packagesPath": "C:\\Users\\Megan Lu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\WebApiPratice\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Megan Lu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "http://nuget.nine-yi/nuget": {},
+          "https://entry.build.91app.io/repository/nineyi-develop-nuget-hosted/": {},
+          "https://entry.build.91app.io/repository/nineyi-release-nuget/index.json": {},
+          "https://www.nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Service\\BussinessLogic.Service.csproj": {
+                "projectPath": "C:\\Users\\Megan Lu\\Practice\\WebApiPratice\\BussinessLogic.Service\\BussinessLogic.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

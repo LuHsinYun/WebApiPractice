@@ -1,0 +1,1618 @@
+[
+  {
+    "CityName": "臺北市",
+    "AreaList": [
+      {
+        "ZipCode": "100",
+        "DistrictName": "中正區"
+      },
+      {
+        "ZipCode": "103",
+        "DistrictName": "大同區"
+      },
+      {
+        "ZipCode": "104",
+        "DistrictName": "中山區"
+      },
+      {
+        "ZipCode": "105",
+        "DistrictName": "松山區"
+      },
+      {
+        "ZipCode": "106",
+        "DistrictName": "大安區"
+      },
+      {
+        "ZipCode": "108",
+        "DistrictName": "萬華區"
+      },
+      {
+        "ZipCode": "110",
+        "DistrictName": "信義區"
+      },
+      {
+        "ZipCode": "111",
+        "DistrictName": "士林區"
+      },
+      {
+        "ZipCode": "112",
+        "DistrictName": "北投區"
+      },
+      {
+        "ZipCode": "114",
+        "DistrictName": "內湖區"
+      },
+      {
+        "ZipCode": "115",
+        "DistrictName": "南港區"
+      },
+      {
+        "ZipCode": "116",
+        "DistrictName": "文山區"
+      }
+    ]
+  },
+  {
+    "CityName": "基隆市",
+    "AreaList": [
+      {
+        "ZipCode": "200",
+        "DistrictName": "仁愛區"
+      },
+      {
+        "ZipCode": "201",
+        "DistrictName": "信義區"
+      },
+      {
+        "ZipCode": "202",
+        "DistrictName": "中正區"
+      },
+      {
+        "ZipCode": "203",
+        "DistrictName": "中山區"
+      },
+      {
+        "ZipCode": "204",
+        "DistrictName": "安樂區"
+      },
+      {
+        "ZipCode": "205",
+        "DistrictName": "暖暖區"
+      },
+      {
+        "ZipCode": "206",
+        "DistrictName": "七堵區"
+      }
+    ]
+  },
+  {
+    "CityName": "新北市",
+    "AreaList": [
+      {
+        "ZipCode": "207",
+        "DistrictName": "萬里區"
+      },
+      {
+        "ZipCode": "208",
+        "DistrictName": "金山區"
+      },
+      {
+        "ZipCode": "220",
+        "DistrictName": "板橋區"
+      },
+      {
+        "ZipCode": "221",
+        "DistrictName": "汐止區"
+      },
+      {
+        "ZipCode": "222",
+        "DistrictName": "深坑區"
+      },
+      {
+        "ZipCode": "223",
+        "DistrictName": "石碇區"
+      },
+      {
+        "ZipCode": "224",
+        "DistrictName": "瑞芳區"
+      },
+      {
+        "ZipCode": "226",
+        "DistrictName": "平溪區"
+      },
+      {
+        "ZipCode": "227",
+        "DistrictName": "雙溪區"
+      },
+      {
+        "ZipCode": "228",
+        "DistrictName": "貢寮區"
+      },
+      {
+        "ZipCode": "231",
+        "DistrictName": "新店區"
+      },
+      {
+        "ZipCode": "232",
+        "DistrictName": "坪林區"
+      },
+      {
+        "ZipCode": "233",
+        "DistrictName": "烏來區"
+      },
+      {
+        "ZipCode": "234",
+        "DistrictName": "永和區"
+      },
+      {
+        "ZipCode": "235",
+        "DistrictName": "中和區"
+      },
+      {
+        "ZipCode": "236",
+        "DistrictName": "土城區"
+      },
+      {
+        "ZipCode": "237",
+        "DistrictName": "三峽區"
+      },
+      {
+        "ZipCode": "238",
+        "DistrictName": "樹林區"
+      },
+      {
+        "ZipCode": "239",
+        "DistrictName": "鶯歌區"
+      },
+      {
+        "ZipCode": "241",
+        "DistrictName": "三重區"
+      },
+      {
+        "ZipCode": "242",
+        "DistrictName": "新莊區"
+      },
+      {
+        "ZipCode": "243",
+        "DistrictName": "泰山區"
+      },
+      {
+        "ZipCode": "244",
+        "DistrictName": "林口區"
+      },
+      {
+        "ZipCode": "247",
+        "DistrictName": "蘆洲區"
+      },
+      {
+        "ZipCode": "248",
+        "DistrictName": "五股區"
+      },
+      {
+        "ZipCode": "249",
+        "DistrictName": "八里區"
+      },
+      {
+        "ZipCode": "251",
+        "DistrictName": "淡水區"
+      },
+      {
+        "ZipCode": "252",
+        "DistrictName": "三芝區"
+      },
+      {
+        "ZipCode": "253",
+        "DistrictName": "石門區"
+      }
+    ]
+  },
+  {
+    "CityName": "連江縣",
+    "AreaList": [
+      {
+        "ZipCode": "209",
+        "DistrictName": "南竿鄉"
+      },
+      {
+        "ZipCode": "210",
+        "DistrictName": "北竿鄉"
+      },
+      {
+        "ZipCode": "211",
+        "DistrictName": "莒光鄉"
+      },
+      {
+        "ZipCode": "212",
+        "DistrictName": "東引鄉"
+      }
+    ]
+  },
+  {
+    "CityName": "宜蘭縣",
+    "AreaList": [
+      {
+        "ZipCode": "260",
+        "DistrictName": "宜蘭市"
+      },
+      {
+        "ZipCode": "263",
+        "DistrictName": "壯圍鄉"
+      },
+      {
+        "ZipCode": "261",
+        "DistrictName": "頭城鎮"
+      },
+      {
+        "ZipCode": "262",
+        "DistrictName": "礁溪鄉"
+      },
+      {
+        "ZipCode": "264",
+        "DistrictName": "員山鄉"
+      },
+      {
+        "ZipCode": "265",
+        "DistrictName": "羅東鎮"
+      },
+      {
+        "ZipCode": "266",
+        "DistrictName": "三星鄉"
+      },
+      {
+        "ZipCode": "267",
+        "DistrictName": "大同鄉"
+      },
+      {
+        "ZipCode": "268",
+        "DistrictName": "五結鄉"
+      },
+      {
+        "ZipCode": "269",
+        "DistrictName": "冬山鄉"
+      },
+      {
+        "ZipCode": "270",
+        "DistrictName": "蘇澳鎮"
+      },
+      {
+        "ZipCode": "272",
+        "DistrictName": "南澳鄉"
+      },
+      {
+        "ZipCode": "290",
+        "DistrictName": "釣魚臺"
+      }
+    ]
+  },
+  {
+    "CityName": "釣魚臺",
+    "AreaList": [
+      {
+        "ZipCode": "290",
+        "DistrictName": "釣魚臺"
+      }
+    ]
+  },
+  {
+    "CityName": "新竹市",
+    "AreaList": [
+      {
+        "ZipCode": "300",
+        "DistrictName": "東區"
+      },
+      {
+        "ZipCode": "300",
+        "DistrictName": "北區"
+      },
+      {
+        "ZipCode": "300",
+        "DistrictName": "香山區"
+      }
+    ]
+  },
+  {
+    "CityName": "新竹縣",
+    "AreaList": [
+      {
+        "ZipCode": "308",
+        "DistrictName": "寶山鄉"
+      },
+      {
+        "ZipCode": "302",
+        "DistrictName": "竹北市"
+      },
+      {
+        "ZipCode": "303",
+        "DistrictName": "湖口鄉"
+      },
+      {
+        "ZipCode": "304",
+        "DistrictName": "新豐鄉"
+      },
+      {
+        "ZipCode": "305",
+        "DistrictName": "新埔鎮"
+      },
+      {
+        "ZipCode": "306",
+        "DistrictName": "關西鎮"
+      },
+      {
+        "ZipCode": "307",
+        "DistrictName": "芎林鄉"
+      },
+      {
+        "ZipCode": "310",
+        "DistrictName": "竹東鎮"
+      },
+      {
+        "ZipCode": "311",
+        "DistrictName": "五峰鄉"
+      },
+      {
+        "ZipCode": "312",
+        "DistrictName": "橫山鄉"
+      },
+      {
+        "ZipCode": "313",
+        "DistrictName": "尖石鄉"
+      },
+      {
+        "ZipCode": "314",
+        "DistrictName": "北埔鄉"
+      },
+      {
+        "ZipCode": "315",
+        "DistrictName": "峨眉鄉"
+      }
+    ]
+  },
+  {
+    "CityName": "桃園市",
+    "AreaList": [
+      {
+        "ZipCode": "320",
+        "DistrictName": "中壢區"
+      },
+      {
+        "ZipCode": "324",
+        "DistrictName": "平鎮區"
+      },
+      {
+        "ZipCode": "325",
+        "DistrictName": "龍潭區"
+      },
+      {
+        "ZipCode": "326",
+        "DistrictName": "楊梅區"
+      },
+      {
+        "ZipCode": "327",
+        "DistrictName": "新屋區"
+      },
+      {
+        "ZipCode": "328",
+        "DistrictName": "觀音區"
+      },
+      {
+        "ZipCode": "330",
+        "DistrictName": "桃園區"
+      },
+      {
+        "ZipCode": "333",
+        "DistrictName": "龜山區"
+      },
+      {
+        "ZipCode": "334",
+        "DistrictName": "八德區"
+      },
+      {
+        "ZipCode": "335",
+        "DistrictName": "大溪區"
+      },
+      {
+        "ZipCode": "336",
+        "DistrictName": "復興區"
+      },
+      {
+        "ZipCode": "337",
+        "DistrictName": "大園區"
+      },
+      {
+        "ZipCode": "338",
+        "DistrictName": "蘆竹區"
+      }
+    ]
+  },
+  {
+    "CityName": "苗栗縣",
+    "AreaList": [
+      {
+        "ZipCode": "350",
+        "DistrictName": "竹南鎮"
+      },
+      {
+        "ZipCode": "351",
+        "DistrictName": "頭份市"
+      },
+      {
+        "ZipCode": "352",
+        "DistrictName": "三灣鄉"
+      },
+      {
+        "ZipCode": "353",
+        "DistrictName": "南庄鄉"
+      },
+      {
+        "ZipCode": "354",
+        "DistrictName": "獅潭鄉"
+      },
+      {
+        "ZipCode": "356",
+        "DistrictName": "後龍鎮"
+      },
+      {
+        "ZipCode": "357",
+        "DistrictName": "通霄鎮"
+      },
+      {
+        "ZipCode": "358",
+        "DistrictName": "苑裡鎮"
+      },
+      {
+        "ZipCode": "360",
+        "DistrictName": "苗栗市"
+      },
+      {
+        "ZipCode": "361",
+        "DistrictName": "造橋鄉"
+      },
+      {
+        "ZipCode": "362",
+        "DistrictName": "頭屋鄉"
+      },
+      {
+        "ZipCode": "363",
+        "DistrictName": "公館鄉"
+      },
+      {
+        "ZipCode": "364",
+        "DistrictName": "大湖鄉"
+      },
+      {
+        "ZipCode": "365",
+        "DistrictName": "泰安鄉"
+      },
+      {
+        "ZipCode": "366",
+        "DistrictName": "銅鑼鄉"
+      },
+      {
+        "ZipCode": "367",
+        "DistrictName": "三義鄉"
+      },
+      {
+        "ZipCode": "368",
+        "DistrictName": "西湖鄉"
+      },
+      {
+        "ZipCode": "369",
+        "DistrictName": "卓蘭鎮"
+      }
+    ]
+  },
+  {
+    "CityName": "臺中市",
+    "AreaList": [
+      {
+        "ZipCode": "400",
+        "DistrictName": "中區"
+      },
+      {
+        "ZipCode": "401",
+        "DistrictName": "東區"
+      },
+      {
+        "ZipCode": "402",
+        "DistrictName": "南區"
+      },
+      {
+        "ZipCode": "403",
+        "DistrictName": "西區"
+      },
+      {
+        "ZipCode": "404",
+        "DistrictName": "北區"
+      },
+      {
+        "ZipCode": "406",
+        "DistrictName": "北屯區"
+      },
+      {
+        "ZipCode": "407",
+        "DistrictName": "西屯區"
+      },
+      {
+        "ZipCode": "408",
+        "DistrictName": "南屯區"
+      },
+      {
+        "ZipCode": "411",
+        "DistrictName": "太平區"
+      },
+      {
+        "ZipCode": "412",
+        "DistrictName": "大里區"
+      },
+      {
+        "ZipCode": "413",
+        "DistrictName": "霧峰區"
+      },
+      {
+        "ZipCode": "414",
+        "DistrictName": "烏日區"
+      },
+      {
+        "ZipCode": "420",
+        "DistrictName": "豐原區"
+      },
+      {
+        "ZipCode": "421",
+        "DistrictName": "后里區"
+      },
+      {
+        "ZipCode": "422",
+        "DistrictName": "石岡區"
+      },
+      {
+        "ZipCode": "423",
+        "DistrictName": "東勢區"
+      },
+      {
+        "ZipCode": "424",
+        "DistrictName": "和平區"
+      },
+      {
+        "ZipCode": "426",
+        "DistrictName": "新社區"
+      },
+      {
+        "ZipCode": "427",
+        "DistrictName": "潭子區"
+      },
+      {
+        "ZipCode": "428",
+        "DistrictName": "大雅區"
+      },
+      {
+        "ZipCode": "429",
+        "DistrictName": "神岡區"
+      },
+      {
+        "ZipCode": "432",
+        "DistrictName": "大肚區"
+      },
+      {
+        "ZipCode": "433",
+        "DistrictName": "沙鹿區"
+      },
+      {
+        "ZipCode": "434",
+        "DistrictName": "龍井區"
+      },
+      {
+        "ZipCode": "435",
+        "DistrictName": "梧棲區"
+      },
+      {
+        "ZipCode": "436",
+        "DistrictName": "清水區"
+      },
+      {
+        "ZipCode": "437",
+        "DistrictName": "大甲區"
+      },
+      {
+        "ZipCode": "438",
+        "DistrictName": "外埔區"
+      },
+      {
+        "ZipCode": "439",
+        "DistrictName": "大安區"
+      }
+    ]
+  },
+  {
+    "CityName": "彰化縣",
+    "AreaList": [
+      {
+        "ZipCode": "500",
+        "DistrictName": "彰化市"
+      },
+      {
+        "ZipCode": "502",
+        "DistrictName": "芬園鄉"
+      },
+      {
+        "ZipCode": "503",
+        "DistrictName": "花壇鄉"
+      },
+      {
+        "ZipCode": "504",
+        "DistrictName": "秀水鄉"
+      },
+      {
+        "ZipCode": "505",
+        "DistrictName": "鹿港鎮"
+      },
+      {
+        "ZipCode": "506",
+        "DistrictName": "福興鄉"
+      },
+      {
+        "ZipCode": "507",
+        "DistrictName": "線西鄉"
+      },
+      {
+        "ZipCode": "508",
+        "DistrictName": "和美鎮"
+      },
+      {
+        "ZipCode": "509",
+        "DistrictName": "伸港鄉"
+      },
+      {
+        "ZipCode": "510",
+        "DistrictName": "員林市"
+      },
+      {
+        "ZipCode": "511",
+        "DistrictName": "社頭鄉"
+      },
+      {
+        "ZipCode": "512",
+        "DistrictName": "永靖鄉"
+      },
+      {
+        "ZipCode": "513",
+        "DistrictName": "埔心鄉"
+      },
+      {
+        "ZipCode": "514",
+        "DistrictName": "溪湖鎮"
+      },
+      {
+        "ZipCode": "515",
+        "DistrictName": "大村鄉"
+      },
+      {
+        "ZipCode": "516",
+        "DistrictName": "埔鹽鄉"
+      },
+      {
+        "ZipCode": "520",
+        "DistrictName": "田中鎮"
+      },
+      {
+        "ZipCode": "521",
+        "DistrictName": "北斗鎮"
+      },
+      {
+        "ZipCode": "522",
+        "DistrictName": "田尾鄉"
+      },
+      {
+        "ZipCode": "523",
+        "DistrictName": "埤頭鄉"
+      },
+      {
+        "ZipCode": "524",
+        "DistrictName": "溪州鄉"
+      },
+      {
+        "ZipCode": "525",
+        "DistrictName": "竹塘鄉"
+      },
+      {
+        "ZipCode": "526",
+        "DistrictName": "二林鎮"
+      },
+      {
+        "ZipCode": "527",
+        "DistrictName": "大城鄉"
+      },
+      {
+        "ZipCode": "528",
+        "DistrictName": "芳苑鄉"
+      },
+      {
+        "ZipCode": "530",
+        "DistrictName": "二水鄉"
+      }
+    ]
+  },
+  {
+    "CityName": "南投縣",
+    "AreaList": [
+      {
+        "ZipCode": "540",
+        "DistrictName": "南投市"
+      },
+      {
+        "ZipCode": "541",
+        "DistrictName": "中寮鄉"
+      },
+      {
+        "ZipCode": "542",
+        "DistrictName": "草屯鎮"
+      },
+      {
+        "ZipCode": "544",
+        "DistrictName": "國姓鄉"
+      },
+      {
+        "ZipCode": "545",
+        "DistrictName": "埔里鎮"
+      },
+      {
+        "ZipCode": "546",
+        "DistrictName": "仁愛鄉"
+      },
+      {
+        "ZipCode": "551",
+        "DistrictName": "名間鄉"
+      },
+      {
+        "ZipCode": "552",
+        "DistrictName": "集集鎮"
+      },
+      {
+        "ZipCode": "553",
+        "DistrictName": "水里鄉"
+      },
+      {
+        "ZipCode": "555",
+        "DistrictName": "魚池鄉"
+      },
+      {
+        "ZipCode": "556",
+        "DistrictName": "信義鄉"
+      },
+      {
+        "ZipCode": "557",
+        "DistrictName": "竹山鎮"
+      },
+      {
+        "ZipCode": "558",
+        "DistrictName": "鹿谷鄉"
+      }
+    ]
+  },
+  {
+    "CityName": "嘉義市",
+    "AreaList": [
+      {
+        "ZipCode": "600",
+        "DistrictName": "西區"
+      },
+      {
+        "ZipCode": "600",
+        "DistrictName": "東區"
+      }
+    ]
+  },
+  {
+    "CityName": "嘉義縣",
+    "AreaList": [
+      {
+        "ZipCode": "602",
+        "DistrictName": "番路鄉"
+      },
+      {
+        "ZipCode": "603",
+        "DistrictName": "梅山鄉"
+      },
+      {
+        "ZipCode": "604",
+        "DistrictName": "竹崎鄉"
+      },
+      {
+        "ZipCode": "605",
+        "DistrictName": "阿里山鄉"
+      },
+      {
+        "ZipCode": "606",
+        "DistrictName": "中埔鄉"
+      },
+      {
+        "ZipCode": "607",
+        "DistrictName": "大埔鄉"
+      },
+      {
+        "ZipCode": "608",
+        "DistrictName": "水上鄉"
+      },
+      {
+        "ZipCode": "611",
+        "DistrictName": "鹿草鄉"
+      },
+      {
+        "ZipCode": "612",
+        "DistrictName": "太保市"
+      },
+      {
+        "ZipCode": "613",
+        "DistrictName": "朴子市"
+      },
+      {
+        "ZipCode": "614",
+        "DistrictName": "東石鄉"
+      },
+      {
+        "ZipCode": "615",
+        "DistrictName": "六腳鄉"
+      },
+      {
+        "ZipCode": "616",
+        "DistrictName": "新港鄉"
+      },
+      {
+        "ZipCode": "621",
+        "DistrictName": "民雄鄉"
+      },
+      {
+        "ZipCode": "622",
+        "DistrictName": "大林鎮"
+      },
+      {
+        "ZipCode": "623",
+        "DistrictName": "溪口鄉"
+      },
+      {
+        "ZipCode": "624",
+        "DistrictName": "義竹鄉"
+      },
+      {
+        "ZipCode": "625",
+        "DistrictName": "布袋鎮"
+      }
+    ]
+  },
+  {
+    "CityName": "雲林縣",
+    "AreaList": [
+      {
+        "ZipCode": "630",
+        "DistrictName": "斗南鎮"
+      },
+      {
+        "ZipCode": "631",
+        "DistrictName": "大埤鄉"
+      },
+      {
+        "ZipCode": "632",
+        "DistrictName": "虎尾鎮"
+      },
+      {
+        "ZipCode": "633",
+        "DistrictName": "土庫鎮"
+      },
+      {
+        "ZipCode": "634",
+        "DistrictName": "褒忠鄉"
+      },
+      {
+        "ZipCode": "635",
+        "DistrictName": "東勢鄉"
+      },
+      {
+        "ZipCode": "636",
+        "DistrictName": "臺西鄉"
+      },
+      {
+        "ZipCode": "637",
+        "DistrictName": "崙背鄉"
+      },
+      {
+        "ZipCode": "638",
+        "DistrictName": "麥寮鄉"
+      },
+      {
+        "ZipCode": "640",
+        "DistrictName": "斗六市"
+      },
+      {
+        "ZipCode": "643",
+        "DistrictName": "林內鄉"
+      },
+      {
+        "ZipCode": "646",
+        "DistrictName": "古坑鄉"
+      },
+      {
+        "ZipCode": "647",
+        "DistrictName": "莿桐鄉"
+      },
+      {
+        "ZipCode": "648",
+        "DistrictName": "西螺鎮"
+      },
+      {
+        "ZipCode": "649",
+        "DistrictName": "二崙鄉"
+      },
+      {
+        "ZipCode": "651",
+        "DistrictName": "北港鎮"
+      },
+      {
+        "ZipCode": "652",
+        "DistrictName": "水林鄉"
+      },
+      {
+        "ZipCode": "653",
+        "DistrictName": "口湖鄉"
+      },
+      {
+        "ZipCode": "654",
+        "DistrictName": "四湖鄉"
+      },
+      {
+        "ZipCode": "655",
+        "DistrictName": "元長鄉"
+      }
+    ]
+  },
+  {
+    "CityName": "臺南市",
+    "AreaList": [
+      {
+        "ZipCode": "700",
+        "DistrictName": "中西區"
+      },
+      {
+        "ZipCode": "701",
+        "DistrictName": "東區"
+      },
+      {
+        "ZipCode": "702",
+        "DistrictName": "南區"
+      },
+      {
+        "ZipCode": "704",
+        "DistrictName": "北區"
+      },
+      {
+        "ZipCode": "708",
+        "DistrictName": "安平區"
+      },
+      {
+        "ZipCode": "709",
+        "DistrictName": "安南區"
+      },
+      {
+        "ZipCode": "710",
+        "DistrictName": "永康區"
+      },
+      {
+        "ZipCode": "711",
+        "DistrictName": "歸仁區"
+      },
+      {
+        "ZipCode": "712",
+        "DistrictName": "新化區"
+      },
+      {
+        "ZipCode": "713",
+        "DistrictName": "左鎮區"
+      },
+      {
+        "ZipCode": "714",
+        "DistrictName": "玉井區"
+      },
+      {
+        "ZipCode": "715",
+        "DistrictName": "楠西區"
+      },
+      {
+        "ZipCode": "716",
+        "DistrictName": "南化區"
+      },
+      {
+        "ZipCode": "717",
+        "DistrictName": "仁德區"
+      },
+      {
+        "ZipCode": "718",
+        "DistrictName": "關廟區"
+      },
+      {
+        "ZipCode": "719",
+        "DistrictName": "龍崎區"
+      },
+      {
+        "ZipCode": "720",
+        "DistrictName": "官田區"
+      },
+      {
+        "ZipCode": "721",
+        "DistrictName": "麻豆區"
+      },
+      {
+        "ZipCode": "722",
+        "DistrictName": "佳里區"
+      },
+      {
+        "ZipCode": "723",
+        "DistrictName": "西港區"
+      },
+      {
+        "ZipCode": "724",
+        "DistrictName": "七股區"
+      },
+      {
+        "ZipCode": "725",
+        "DistrictName": "將軍區"
+      },
+      {
+        "ZipCode": "726",
+        "DistrictName": "學甲區"
+      },
+      {
+        "ZipCode": "727",
+        "DistrictName": "北門區"
+      },
+      {
+        "ZipCode": "730",
+        "DistrictName": "新營區"
+      },
+      {
+        "ZipCode": "731",
+        "DistrictName": "後壁區"
+      },
+      {
+        "ZipCode": "732",
+        "DistrictName": "白河區"
+      },
+      {
+        "ZipCode": "733",
+        "DistrictName": "東山區"
+      },
+      {
+        "ZipCode": "734",
+        "DistrictName": "六甲區"
+      },
+      {
+        "ZipCode": "735",
+        "DistrictName": "下營區"
+      },
+      {
+        "ZipCode": "736",
+        "DistrictName": "柳營區"
+      },
+      {
+        "ZipCode": "737",
+        "DistrictName": "鹽水區"
+      },
+      {
+        "ZipCode": "741",
+        "DistrictName": "善化區"
+      },
+      {
+        "ZipCode": "744",
+        "DistrictName": "新市區"
+      },
+      {
+        "ZipCode": "742",
+        "DistrictName": "大內區"
+      },
+      {
+        "ZipCode": "743",
+        "DistrictName": "山上區"
+      },
+      {
+        "ZipCode": "745",
+        "DistrictName": "安定區"
+      }
+    ]
+  },
+  {
+    "CityName": "高雄市",
+    "AreaList": [
+      {
+        "ZipCode": "800",
+        "DistrictName": "新興區"
+      },
+      {
+        "ZipCode": "801",
+        "DistrictName": "前金區"
+      },
+      {
+        "ZipCode": "802",
+        "DistrictName": "苓雅區"
+      },
+      {
+        "ZipCode": "803",
+        "DistrictName": "鹽埕區"
+      },
+      {
+        "ZipCode": "804",
+        "DistrictName": "鼓山區"
+      },
+      {
+        "ZipCode": "805",
+        "DistrictName": "旗津區"
+      },
+      {
+        "ZipCode": "806",
+        "DistrictName": "前鎮區"
+      },
+      {
+        "ZipCode": "807",
+        "DistrictName": "三民區"
+      },
+      {
+        "ZipCode": "811",
+        "DistrictName": "楠梓區"
+      },
+      {
+        "ZipCode": "812",
+        "DistrictName": "小港區"
+      },
+      {
+        "ZipCode": "813",
+        "DistrictName": "左營區"
+      },
+      {
+        "ZipCode": "814",
+        "DistrictName": "仁武區"
+      },
+      {
+        "ZipCode": "815",
+        "DistrictName": "大社區"
+      },
+      {
+        "ZipCode": "817",
+        "DistrictName": "東沙群島"
+      },
+      {
+        "ZipCode": "819",
+        "DistrictName": "南沙群島"
+      },
+      {
+        "ZipCode": "820",
+        "DistrictName": "岡山區"
+      },
+      {
+        "ZipCode": "821",
+        "DistrictName": "路竹區"
+      },
+      {
+        "ZipCode": "822",
+        "DistrictName": "阿蓮區"
+      },
+      {
+        "ZipCode": "823",
+        "DistrictName": "田寮區"
+      },
+      {
+        "ZipCode": "824",
+        "DistrictName": "燕巢區"
+      },
+      {
+        "ZipCode": "825",
+        "DistrictName": "橋頭區"
+      },
+      {
+        "ZipCode": "826",
+        "DistrictName": "梓官區"
+      },
+      {
+        "ZipCode": "827",
+        "DistrictName": "彌陀區"
+      },
+      {
+        "ZipCode": "828",
+        "DistrictName": "永安區"
+      },
+      {
+        "ZipCode": "829",
+        "DistrictName": "湖內區"
+      },
+      {
+        "ZipCode": "830",
+        "DistrictName": "鳳山區"
+      },
+      {
+        "ZipCode": "831",
+        "DistrictName": "大寮區"
+      },
+      {
+        "ZipCode": "832",
+        "DistrictName": "林園區"
+      },
+      {
+        "ZipCode": "833",
+        "DistrictName": "鳥松區"
+      },
+      {
+        "ZipCode": "840",
+        "DistrictName": "大樹區"
+      },
+      {
+        "ZipCode": "842",
+        "DistrictName": "旗山區"
+      },
+      {
+        "ZipCode": "843",
+        "DistrictName": "美濃區"
+      },
+      {
+        "ZipCode": "844",
+        "DistrictName": "六龜區"
+      },
+      {
+        "ZipCode": "845",
+        "DistrictName": "內門區"
+      },
+      {
+        "ZipCode": "846",
+        "DistrictName": "杉林區"
+      },
+      {
+        "ZipCode": "847",
+        "DistrictName": "甲仙區"
+      },
+      {
+        "ZipCode": "848",
+        "DistrictName": "桃源區"
+      },
+      {
+        "ZipCode": "849",
+        "DistrictName": "那瑪夏區"
+      },
+      {
+        "ZipCode": "851",
+        "DistrictName": "茂林區"
+      },
+      {
+        "ZipCode": "852",
+        "DistrictName": "茄萣區"
+      }
+    ]
+  },
+  {
+    "CityName": "南海島",
+    "AreaList": [
+      {
+        "ZipCode": "817",
+        "DistrictName": "東沙群島"
+      },
+      {
+        "ZipCode": "819",
+        "DistrictName": "南沙群島"
+      }
+    ]
+  },
+  {
+    "CityName": "澎湖縣",
+    "AreaList": [
+      {
+        "ZipCode": "880",
+        "DistrictName": "馬公市"
+      },
+      {
+        "ZipCode": "881",
+        "DistrictName": "西嶼鄉"
+      },
+      {
+        "ZipCode": "882",
+        "DistrictName": "望安鄉"
+      },
+      {
+        "ZipCode": "883",
+        "DistrictName": "七美鄉"
+      },
+      {
+        "ZipCode": "884",
+        "DistrictName": "白沙鄉"
+      },
+      {
+        "ZipCode": "885",
+        "DistrictName": "湖西鄉"
+      }
+    ]
+  },
+  {
+    "CityName": "金門縣",
+    "AreaList": [
+      {
+        "ZipCode": "890",
+        "DistrictName": "金沙鎮"
+      },
+      {
+        "ZipCode": "891",
+        "DistrictName": "金湖鎮"
+      },
+      {
+        "ZipCode": "892",
+        "DistrictName": "金寧鄉"
+      },
+      {
+        "ZipCode": "893",
+        "DistrictName": "金城鎮"
+      },
+      {
+        "ZipCode": "894",
+        "DistrictName": "烈嶼鄉"
+      },
+      {
+        "ZipCode": "896",
+        "DistrictName": "烏坵鄉"
+      }
+    ]
+  },
+  {
+    "CityName": "屏東縣",
+    "AreaList": [
+      {
+        "ZipCode": "900",
+        "DistrictName": "屏東市"
+      },
+      {
+        "ZipCode": "901",
+        "DistrictName": "三地門鄉"
+      },
+      {
+        "ZipCode": "902",
+        "DistrictName": "霧臺鄉"
+      },
+      {
+        "ZipCode": "903",
+        "DistrictName": "瑪家鄉"
+      },
+      {
+        "ZipCode": "904",
+        "DistrictName": "九如鄉"
+      },
+      {
+        "ZipCode": "905",
+        "DistrictName": "里港鄉"
+      },
+      {
+        "ZipCode": "906",
+        "DistrictName": "高樹鄉"
+      },
+      {
+        "ZipCode": "907",
+        "DistrictName": "鹽埔鄉"
+      },
+      {
+        "ZipCode": "908",
+        "DistrictName": "長治鄉"
+      },
+      {
+        "ZipCode": "909",
+        "DistrictName": "麟洛鄉"
+      },
+      {
+        "ZipCode": "911",
+        "DistrictName": "竹田鄉"
+      },
+      {
+        "ZipCode": "912",
+        "DistrictName": "內埔鄉"
+      },
+      {
+        "ZipCode": "913",
+        "DistrictName": "萬丹鄉"
+      },
+      {
+        "ZipCode": "920",
+        "DistrictName": "潮州鎮"
+      },
+      {
+        "ZipCode": "921",
+        "DistrictName": "泰武鄉"
+      },
+      {
+        "ZipCode": "922",
+        "DistrictName": "來義鄉"
+      },
+      {
+        "ZipCode": "923",
+        "DistrictName": "萬巒鄉"
+      },
+      {
+        "ZipCode": "924",
+        "DistrictName": "崁頂鄉"
+      },
+      {
+        "ZipCode": "925",
+        "DistrictName": "新埤鄉"
+      },
+      {
+        "ZipCode": "926",
+        "DistrictName": "南州鄉"
+      },
+      {
+        "ZipCode": "927",
+        "DistrictName": "林邊鄉"
+      },
+      {
+        "ZipCode": "928",
+        "DistrictName": "東港鎮"
+      },
+      {
+        "ZipCode": "929",
+        "DistrictName": "琉球鄉"
+      },
+      {
+        "ZipCode": "931",
+        "DistrictName": "佳冬鄉"
+      },
+      {
+        "ZipCode": "932",
+        "DistrictName": "新園鄉"
+      },
+      {
+        "ZipCode": "940",
+        "DistrictName": "枋寮鄉"
+      },
+      {
+        "ZipCode": "941",
+        "DistrictName": "枋山鄉"
+      },
+      {
+        "ZipCode": "942",
+        "DistrictName": "春日鄉"
+      },
+      {
+        "ZipCode": "943",
+        "DistrictName": "獅子鄉"
+      },
+      {
+        "ZipCode": "944",
+        "DistrictName": "車城鄉"
+      },
+      {
+        "ZipCode": "945",
+        "DistrictName": "牡丹鄉"
+      },
+      {
+        "ZipCode": "946",
+        "DistrictName": "恆春鎮"
+      },
+      {
+        "ZipCode": "947",
+        "DistrictName": "滿州鄉"
+      }
+    ]
+  },
+  {
+    "CityName": "臺東縣",
+    "AreaList": [
+      {
+        "ZipCode": "950",
+        "DistrictName": "臺東市"
+      },
+      {
+        "ZipCode": "951",
+        "DistrictName": "綠島鄉"
+      },
+      {
+        "ZipCode": "952",
+        "DistrictName": "蘭嶼鄉"
+      },
+      {
+        "ZipCode": "953",
+        "DistrictName": "延平鄉"
+      },
+      {
+        "ZipCode": "954",
+        "DistrictName": "卑南鄉"
+      },
+      {
+        "ZipCode": "955",
+        "DistrictName": "鹿野鄉"
+      },
+      {
+        "ZipCode": "956",
+        "DistrictName": "關山鎮"
+      },
+      {
+        "ZipCode": "957",
+        "DistrictName": "海端鄉"
+      },
+      {
+        "ZipCode": "958",
+        "DistrictName": "池上鄉"
+      },
+      {
+        "ZipCode": "959",
+        "DistrictName": "東河鄉"
+      },
+      {
+        "ZipCode": "961",
+        "DistrictName": "成功鎮"
+      },
+      {
+        "ZipCode": "962",
+        "DistrictName": "長濱鄉"
+      },
+      {
+        "ZipCode": "963",
+        "DistrictName": "太麻里鄉"
+      },
+      {
+        "ZipCode": "964",
+        "DistrictName": "金峰鄉"
+      },
+      {
+        "ZipCode": "965",
+        "DistrictName": "大武鄉"
+      },
+      {
+        "ZipCode": "966",
+        "DistrictName": "達仁鄉"
+      }
+    ]
+  },
+  {
+    "CityName": "花蓮縣",
+    "AreaList": [
+      {
+        "ZipCode": "970",
+        "DistrictName": "花蓮市"
+      },
+      {
+        "ZipCode": "971",
+        "DistrictName": "新城鄉"
+      },
+      {
+        "ZipCode": "972",
+        "DistrictName": "秀林鄉"
+      },
+      {
+        "ZipCode": "973",
+        "DistrictName": "吉安鄉"
+      },
+      {
+        "ZipCode": "974",
+        "DistrictName": "壽豐鄉"
+      },
+      {
+        "ZipCode": "975",
+        "DistrictName": "鳳林鎮"
+      },
+      {
+        "ZipCode": "976",
+        "DistrictName": "光復鄉"
+      },
+      {
+        "ZipCode": "977",
+        "DistrictName": "豐濱鄉"
+      },
+      {
+        "ZipCode": "978",
+        "DistrictName": "瑞穗鄉"
+      },
+      {
+        "ZipCode": "979",
+        "DistrictName": "萬榮鄉"
+      },
+      {
+        "ZipCode": "981",
+        "DistrictName": "玉里鎮"
+      },
+      {
+        "ZipCode": "982",
+        "DistrictName": "卓溪鄉"
+      },
+      {
+        "ZipCode": "983",
+        "DistrictName": "富里鄉"
+      }
+    ]
+  }
+]

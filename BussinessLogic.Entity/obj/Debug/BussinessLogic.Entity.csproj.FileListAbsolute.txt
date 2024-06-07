@@ -1,0 +1,9 @@
+C:\Users\Megan Lu\Practice\WebApiPratice\BussinessLogic.Entity\bin\Debug\BussinessLogic.Entity.dll
+C:\Users\Megan Lu\Practice\WebApiPratice\BussinessLogic.Entity\bin\Debug\BussinessLogic.Entity.pdb
+C:\Users\Megan Lu\Practice\WebApiPratice\BussinessLogic.Entity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Megan Lu\Practice\WebApiPratice\BussinessLogic.Entity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Megan Lu\Practice\WebApiPratice\BussinessLogic.Entity\obj\Debug\BussinessLogic.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Megan Lu\Practice\WebApiPratice\BussinessLogic.Entity\obj\Debug\BussinessLogic.Entity.csproj.CopyComplete
+C:\Users\Megan Lu\Practice\WebApiPratice\BussinessLogic.Entity\obj\Debug\BussinessLogic.Entity.dll
+C:\Users\Megan Lu\Practice\WebApiPratice\BussinessLogic.Entity\obj\Debug\BussinessLogic.Entity.pdb
+C:\Users\Megan Lu\Practice\WebApiPratice\BussinessLogic.Entity\obj\Debug\BussinessLogic.Entity.csproj.AssemblyReference.cache
