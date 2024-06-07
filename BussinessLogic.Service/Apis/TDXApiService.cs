@@ -17,7 +17,7 @@ namespace BussinessLogic.Service.Apis
     /// <summary>
     /// 交通部「運輸資料流通服務平臺(TDX)」 Service
     /// </summary>
-    public class TDXApiService : IHttpRequestService
+    public class TDXApiService
     {
         /// <summary>
         /// IHttpClientFactory
